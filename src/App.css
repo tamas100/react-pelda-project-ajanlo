@@ -1,3 +1,10 @@
 .App {
-  /* text-align: center; */
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.ajánlók {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
